@@ -1,7 +1,5 @@
 # Introduction to Programming with Python
-## June 25th - 29th, 2018
-
-This repository contains materials and resources for the Introduction to Programming with Python workshop. Workshop details can be found at [https://sites.northwestern.edu/summerworkshops/workshop-schedule/#intropython](https://sites.northwestern.edu/summerworkshops/workshop-schedule/#intropython)
+Credits to https://sites.northwestern.edu/summerworkshops/workshop-schedule/#intropython
 
 Make sure to download and install [Anaconda for Python 3.6](https://www.anaconda.com/download) before attending!
 
